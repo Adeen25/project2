@@ -1,0 +1,277 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.oppo{
+    background-image: url(./images/img1.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 70vh;
+   
+    
+   
+}
+.card-body{
+    position: relative;
+    top: 100px;
+    left: 150px;
+}
+.card-body2{
+    position: relative;
+    top: 100px;
+    left: 150px;
+}
+.new-product{
+    position: relative;
+    left: 200px;
+}
+.oppo2{
+    background-image: url(./images/img2.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 70vh;
+}
+.card-bodya{
+    position: relative;
+    top: 100px;
+    left: 150px;
+}
+.card-bodyb{
+    position: relative;
+    top: 100px;
+    left: 150px;
+}
+.navwrapper{
+    background-color: white;
+    width: 100%;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.navbar ul{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.navbar ul li {
+    list-style-type: none;
+}
+.navbar ul li a{
+        text-decoration: none;
+        color: black;
+        padding: 10px;
+}
+.input{
+    display: flex;
+    justify-content: space-between;
+    width: 120px;
+border: 2px solid black;
+padding: 5px 5px;
+border-radius: 5px;
+}
+.input input{
+    border: none;
+    outline: none;
+width: 100px;
+}
+.right{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.community{
+    margin: 8px;
+}
+.coloros{
+    margin: 8px;
+}
+.support{
+    margin: 8px;
+}
+.setting{
+    margin: 8px;
+}
+.tools{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.pic1{
+    background-image: url(./images/img3.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 48%;
+    height: 70vh;
+    position: relative;
+    left: 100px;
+}
+.btn{
+ background-color: black;
+ border-radius: 35px;
+ border: 1px solid grey;
+ width: 7%;
+ text-align: center;
+ color: white;
+ position: relative;
+ top: 350px;
+ left: 100px;
+}
+.button{
+   padding: 0px 8px; 
+}
+.pic2{
+    background-image: url(./images/img4.webp);
+    background-repeat: repeat;
+    background-size: cover;
+    width: 48%;
+    height: 70vh;
+    position: relative;
+    left: 100px;
+    
+}
+.card-bodyc{
+    position: relative;
+    top: 50px;
+    right: 100px;
+   
+}
+.card-bodyd{
+    position: relative;
+    top: 300px;
+    left: 30px;
+   
+    text-decoration: none;
+    list-style-type: none;
+}
+.card-bodye{
+    position: relative;
+    top: 50px;
+    right: 100px;
+}
+.card-bodyf{
+    position: relative;
+    top: 300px;
+   
+}
+.footer{
+    background-image: url(./images/img5.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 70vh;
+}
+.card-bodyg{
+    position: relative;
+    top: 100px;
+    left: 120px;
+}
+.tools2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.pic3{
+    background-image: url(./images/img6.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 48%;
+    height: 70vh;
+    position: relative;
+    left: 100px;
+}
+.card-body1{
+    position: relative;
+    top: 5px;
+    right: 100px;
+ 
+   
+}
+.pic4{
+    background-image: url(./images/img7.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 48%;
+    height: 70vh;
+    position: relative;
+    left: 100px;
+}
+.card-bodyt{
+    position: relative;
+    top: 5px;
+    right: 10px;
+}
+.card-body11{
+    position: relative;
+    top: 350px;
+    left: 50px;
+    
+}
+.card-body22{
+    position: relative;
+    top: 350px;
+    right: 80px;
+    border-radius: 150px;
+}
+.navbar7{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.pica{
+    background-image: url(./images/img8.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 32%;
+    height: 200px;
+    position: relative;
+    left: 10px;
+}
+.picb{
+    background-image: url(./images/img9.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 32%;
+    height: 200px;
+}
+.picc{
+    background-image: url(./images/img10.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 32%;
+    height: 200px;
+}
+.card-bodyu{
+    background-color: grey;
+    position: relative;
+    top: 230px;
+
+}
+.aero{
+    position: relative;
+    top: 200px;
+    left: 400px;
+}
+.card-bodym{
+    background-color: grey;
+    position: relative;
+    top: 250px;
+
+}
+.card-bodyn{
+    background-color: grey;
+    position: relative;
+    top: 210px;
+}
+.aero2{
+    position: relative;
+    top: 180px;
+    left: 400px;  
+}
+.technology{
+    position: relative;
+    top: 250px;
+}
